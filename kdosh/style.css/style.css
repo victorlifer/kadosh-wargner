@@ -1,0 +1,36 @@
+.card {
+    padding: 5px;
+    border: none;
+    background: none;
+}
+
+.card-body {
+    border: 1px dotted #ccc;
+    background: #fff;
+    border-radius: 10px;
+    /*filter:drop-shadow(2px 2px 2px rgb(175, 175, 175));*/
+}
+
+footer {
+    height: 100px;
+    background: black;
+}
+
+.lista {
+    text-emphasis: none;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.imagem {
+    max-width: 50%;
+}
+
+.lista {
+    list-style: none;
+}
